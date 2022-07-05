@@ -10,7 +10,9 @@ What ways have I tried to get the PCI adapter pass and I FAILED !
 #4 Oracle VirtualBox + Extension Pack + Home Assistant OS on Windows Server 2019
 #5 VMware Workstation Pro + Tools + Home Assistant OS on Windows Server 2019
 
-ALL FAILED!!!
+ALL FAILED!!! It could be because of my lack of familiarity with Linux, 
+and because I didn't get an answer, whether Home Assistant contains 
+drivers for the coral dual TPU PCIe. (USB version works)!!!
 ----------------------------------------------------------------------------------------
 
 After that I just listened to the advice from discord and installed Proxmox with two VMs.
