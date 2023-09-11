@@ -23,10 +23,15 @@ After that I just listened to the advice from discord and installed Proxmox with
 
 *****************************************************************************************
 
+
+
+
 1.) IT IS URGENTLY NECESSARY to enable IOMMU (or VT-d for Intel) in the motherboard BIOS
     https://www.google.com/search?q=enable+IOMMU+(or+VT-d+for+Intel)+in+the+motherboard+BIOS&sxsrf=ALiCzsY6S7_fHu032eVhF8jfpRd1mLaekg:1657018655179&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjXtM_Cy-H4AhXAYPEDHeTWBl0Q_AUoAXoECAEQAw&biw=2100&bih=1181&dpr=0.8
 
 2.) Installing Proxmox is not an atomic science. To get started, watch the video:
     https://www.youtube.com/watch?v=u8E3-Zy9NvI&ab_channel=LearnLinuxTV
 
-3.) 
+3.) Update/upgrade Proxmox and reboot!
+
+4.) 
