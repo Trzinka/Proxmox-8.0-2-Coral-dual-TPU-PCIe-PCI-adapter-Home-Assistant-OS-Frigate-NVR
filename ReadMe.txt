@@ -35,3 +35,11 @@ After that I just listened to the advice from discord and installed Proxmox with
 3.) Update/upgrade Proxmox and reboot!
 
 4.) 
+
+
+
+4.) Download:   https://www.home-assistant.io/installation/linux
+            version KVM (.qcow2)
+    Save on local disk
+
+5.) Installing HomeAssistant. To get started, watch the video:https://www.youtube.com/watch?v=arKoIPQ5_YU
